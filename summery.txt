@@ -1,0 +1,9 @@
+Summary: 
+
+How a Firewall Filters Traffic
+
+A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predefined rules.
+Inbound Rules: Control traffic coming into your device (e.g., block Telnet on port 23).
+Outbound Rules: Control traffic leaving your device (e.g., prevent apps from connecting to certain websites).
+Port Filtering: A firewall can allow or block specific ports (e.g., allow port 22 for SSH, block port 23 for Telnet).
+Stateful Inspection: Most modern firewalls track active connections and decide whether to allow traffic based on the connection state.
